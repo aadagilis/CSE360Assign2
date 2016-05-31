@@ -1,9 +1,15 @@
+/**
+ *Name: Aubree Dagilis
+ *PIN: 16
+ *Description: Tests the Analytics class.  User enters the integers they want in the 
+ *list and press a character on the keyboard to stop inputting any integers.  
+ */
+
 package cse360assign2;
 
 import java.util.Scanner;
 
 public class TestAnalytics {
-	
 	public static void main(String [] args)
 	{
 		System.out.println("Enter a list of integers. When done, press a character.");
